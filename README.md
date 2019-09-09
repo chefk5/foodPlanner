@@ -19,6 +19,8 @@ This meal planner enables the user to add different meals, and for each meal, ad
 + Enable the user to add his/her own food/recipes.
 + Add period/days alongside with meals.
 + Deleting meals or products from meals.
++ Better notifications instead of alerts.
+
 
 #### Notes:
 + There may be some UI issues when resizing.
