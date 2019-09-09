@@ -1,4 +1,6 @@
 # foodPlanner
+## How to use:
++ Clone the repo and open index.html
 
 ## Description
 This meal planner enables the user to add different meals, and for each meal, add different number of products from a defined list (using the products API call). As the user adds the products to his/her meals, the total number of calories can be seen.
